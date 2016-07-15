@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clima en casa</string>
+    <string name="main_get_records_error">Ocurrió un error al intentar obtener los registros %s</string>
+    <string name="main_no_data_available">No hay registros disponibles para la fecha seleccionada</string>
+
+    <string name="main_toast_msg">%s °C es una temperatuda agradable :)</string>
+    <string name="main_temperature_msg_format">Temperatura: %s °C</string>
+    <string name="main_humidity_msg_format">Humedad: %s/100</string>
+    <string name="main_altitude_msg_format">Altitud:  %s m</string>
+    <string name="main_pressure_msg_format">Presión:  %s Pa</string>
+
+
+</resources>

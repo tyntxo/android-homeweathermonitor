@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/activity_horizontal_margin">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:layout_weight="1"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/txtDateTime"
+        android:gravity="center"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:layout_weight="1"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/txtTemperature"
+        android:drawableLeft="@drawable/img_temperature"
+        android:layout_below="@id/txtDateTime"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:layout_weight="1"
+        android:layout_below="@id/txtTemperature"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/txtHumidity"
+        android:drawableLeft="@drawable/img_humidity"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:layout_weight="1"
+        android:layout_below="@id/txtHumidity"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/txtPressure"
+        android:drawableLeft="@drawable/img_pressure"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
+
+    </android.support.v7.widget.CardView>

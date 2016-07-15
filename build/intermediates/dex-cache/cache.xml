@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_67896d6f78aee81b28c45f98416bf80503d00415.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_40c3361afcb4ed96ab13afb63556b8dbc7c7ff6e.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cf911ef8a2ecc15010651cc8dcb0e712db92541.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_510c7a93e0ee888624cdb3806e88c9bfa8dae87f.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_d82a570ef4e21afd4d7cfdcdfa4afe6f65e0ada0.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/jsr250-api-1.0_92a2434c128530ff25cc8fda668ee18892f76735.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.0_b7da5f4ff8de57ce82cf2651037499872c244d86.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_692f6608b6202cc18ec5a941977d4cbc8d2ed377.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.0_3fa4025f89dfd93435729002838aaba28d86b21a.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_1d3537392c6a0f6a82157a384c9bfd5df0f1d818.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_bf8377f16fa1e8b2e7cdd182a749966ddb209061.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_6ea897a449b75c1cc2d0c512ab67caf1afc0b74f.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_2cd3f853def4531a442464f34dde7d0bf4a9526c.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_0325994f57c4887cdbb36143aafb7491c712d2e8.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_e86710e6df62ca1c57afd1d2ae6642a73710d3ac.jar" />
+    </item>
+    <item
+        jar="/Users/martin/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/dagger-2.0.1_72ea6ff9757fc5a7816230d3c951cde57fa65ac3.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_73f54c4aa536037de5e43da941a409db9adf4a6b.jar" />
+    </item>
+    <item
+        jar="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/martin/Desktop/homeweathermonitor/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_c47e2b0b1f48d4f225142376f7d869a712fc4156.jar" />
+    </item>
+
+</items>
